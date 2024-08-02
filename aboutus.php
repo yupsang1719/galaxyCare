@@ -21,7 +21,7 @@
             <div class="right-block">
                <h2 class="text-uppercase">Company Overview</h2>
                <img src="assets/images/company-overview.jpg" alt="" class="img-responsive feat-img"/>
-               <p style="text-align:justify;">We have extensive health & social care sector experience and are committed to providing a service. <b>WE PRIDE IN EXCELLENT CARE</b>.</p>
+               <p style="text-align:justify;">We have extensive health & social care sector experience and are committed to providing a service. WE PRIDE IN EXCELLENT CARE.</p>
 <ul>
 <li>Our service is underpinned by quality, value for money and an ability to cater for diverse staffing requirements, no matter how urgent.</li>
 
